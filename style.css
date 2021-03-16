@@ -1,0 +1,103 @@
+*{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.wrapper{
+  margin-top: 100px;
+}
+
+/* lezioni */
+
+#lezioni{
+  text-align: center;
+}
+
+#lezioni .container img{
+  height: 40vh;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+#lezioni .container .col-lg-6 {
+  padding: 20px;
+}
+
+#lezioni .container h1{
+  font-size: 40px;
+}
+
+#lezioni .container h3{
+  font-size: 30px;
+  line-height: 60px;
+}
+
+#lezioni .container p{
+  font-size: 20px;
+}
+
+/* steps */
+
+#steps{
+  text-align: center;
+  background-color: lightgray;
+}
+
+#steps .container img{
+  height: 40vh;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+
+#steps .container h1{
+  font-size: 40px;
+}
+
+#steps .container h3{
+  font-size: 30px;
+  line-height: 60px;
+}
+
+#steps .container p{
+  font-size: 20px;
+}
+
+/* why */
+
+#why{
+  text-align: center;
+  background-color: lightgray;
+}
+
+#why .container img{
+  height: 40vh;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-top: 50px;
+  margin-bottom: 30px;
+  background-color: #428bca;
+  border-radius: 50%;
+  padding: 30px
+}
+
+#why .container h1{
+  font-size: 40px;
+}
+
+#why .container h3{
+  font-size: 30px;
+  line-height: 60px;
+}
+
+#why .container p{
+  font-size: 20px;
+  padding-bottom: 20px;
+}
